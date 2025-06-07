@@ -1,0 +1,10 @@
+Total number of lines : 2
+Total number of words : 6
+Total number of characters : 26
+Number of unique words (case-insensitive) : 5
+The top 5 most frequent words and their counts :
+  aye: 2 times
+  hello: 1 times
+  how: 1 times
+  are: 1 times
+  you: 1 times

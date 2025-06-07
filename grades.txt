@@ -1,0 +1,3 @@
+Name: a, Grade: 50
+Name: b, Grade: 30
+Name: c, Grade: 10
